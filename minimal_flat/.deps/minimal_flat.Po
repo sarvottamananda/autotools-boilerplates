@@ -1,0 +1,2 @@
+minimal_flat.o: minimal_flat.c /usr/include/stdc-predef.h
+/usr/include/stdc-predef.h:
