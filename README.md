@@ -1,7 +1,7 @@
-## Autotools-boilerplates : Some boilerplates for autotools projects
+# Autotools-boilerplates : Some boilerplates for autotools projects
 
 
-# Installation instructions
+## Installation instructions
 
 In each of the boilerplates, you copy the whole subdirectory, and run autogen.sh as follows:
 
@@ -9,7 +9,7 @@ In each of the boilerplates, you copy the whole subdirectory, and run autogen.sh
 $ bash autogen.sh
 ```
 
-# Cleaning
+## Cleaning
 
 Warning: You should not run clean-all.sh if you have created/modified something important in the boilerplate. You are
 being warned. It is there to check if the boilerplates are the bare minimum.
