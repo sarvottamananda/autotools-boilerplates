@@ -1,3 +1,6 @@
 #!/bin/sh
 
-autoreconf -ivf
+mkdir -p m4
+
+autoreconf -if
+
