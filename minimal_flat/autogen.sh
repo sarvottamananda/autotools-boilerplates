@@ -1,6 +1,3 @@
 #!/bin/sh
 
-aclocal
-automake --foreign --add-missing
-autoconf
-
+autoreconf -ivf
